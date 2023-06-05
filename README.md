@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![3D MODEL](https://github.com/abinayasangeetha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393675/4743f31d-3d7e-4777-9f24-bd66a5b643b6)
 
 
 
