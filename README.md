@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![3D MODEL](https://github.com/abinayasangeetha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393675/a55f945c-bae6-4f85-b576-9b8ed8b14862)
+
+
 
 ### Name: ABINAYA S
 ### Register Number: 212222230002
