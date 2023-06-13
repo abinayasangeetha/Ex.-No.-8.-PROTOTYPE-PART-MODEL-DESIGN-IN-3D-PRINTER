@@ -19,17 +19,20 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
-![Screenshot (110)](https://github.com/mathes6112004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119477782/9cf9c7c1-bf02-400b-bb58-fe507370a8ed)
+![STEP 3](https://github.com/abinayasangeetha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393675/c298e9cb-e718-4eb1-a9b2-736cc2d94d24)
+
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
-![Screenshot (111)](https://github.com/mathes6112004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119477782/41f91188-b591-4af6-8199-67eb4f1a6acf)
+![STEP 4](https://github.com/abinayasangeetha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393675/a13d82b8-4c11-4937-9f57-ded1a03a82b0)
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
-![Screenshot (112)](https://github.com/mathes6112004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119477782/8fcb87ca-28a9-49b7-9644-91692995d702)
+![STEP 5](https://github.com/abinayasangeetha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393675/ccff4596-bb00-43dc-8acc-0cdd6c630fa3)
 
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-![Screenshot (113)](https://github.com/mathes6112004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119477782/764aecbd-65d6-4ffa-9c8e-a7d224c7bb99)
+![STEP 6](https://github.com/abinayasangeetha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393675/9df60bba-8689-4b1e-89b3-8a53dd78b0d5)
+
+
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -41,7 +44,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot (110)](https://github.com/mathes6112004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119477782/9cf9c7c1-bf02-400b-bb58-fe507370a8ed)
+
+![OUTPUT](https://github.com/abinayasangeetha/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393675/6a0a90ff-0a7f-4778-8ada-85cc833c35c0)
 
 ### Name: ABINAYA S
 ### Register Number: 212222230002
